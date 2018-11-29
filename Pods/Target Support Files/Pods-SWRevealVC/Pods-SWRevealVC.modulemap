@@ -1,0 +1,6 @@
+framework module Pods_SWRevealVC {
+  umbrella header "Pods-SWRevealVC-umbrella.h"
+
+  export *
+  module * { export * }
+}
